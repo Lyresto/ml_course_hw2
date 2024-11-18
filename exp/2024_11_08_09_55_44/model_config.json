@@ -1,0 +1,5 @@
+{
+    "encoder_kernel_size": 3,
+    "encoder_kernel_size_reduction": 0,
+    "use_GCN": true
+}

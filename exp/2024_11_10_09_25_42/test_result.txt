@@ -1,0 +1,14 @@
+val dice: 0.7754
+val dice: 0.7754
+val dice: 1.0000
+val dice: 0.7754
+val dice: 0.7755
+val dice: 0.7758
+val dice: 0.7760
+test dice: 0.7977
+test dice: 0.7975
+val dice: 0.7760
+test dice: 0.7977
+test dice: 0.7977
+test dice: 0.7977
+test dice: 0.7977

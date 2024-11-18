@@ -1,0 +1,26 @@
+{
+    "epochs": 20,
+    "train_batch_size": 4,
+    "val_test_batch_size": 5,
+    "lr": 5e-05,
+    "cut": true,
+    "resize_shape": [
+        384,
+        576
+    ],
+    "image_original_shape": [
+        360,
+        560
+    ],
+    "save_path": "./exp/",
+    "max_checkpoint": 3,
+    "device": "cuda:6",
+    "debug": false,
+    "bce_weight": 0.0,
+    "enhance_images": true,
+    "warm_epochs": 10000,
+    "decay_factor": 0.5,
+    "exposure": false,
+    "split_image": true,
+    "tv_weight": 0.0
+}

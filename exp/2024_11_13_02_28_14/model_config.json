@@ -1,0 +1,6 @@
+{
+    "encoder_kernel_size": 11,
+    "encoder_kernel_size_reduction": 2,
+    "use_GCN": false,
+    "depth": 4
+}
