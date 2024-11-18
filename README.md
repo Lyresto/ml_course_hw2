@@ -1,7 +1,8 @@
 - [exp](./exp)： 模型权重文件和训练参数保存路径
-    - *.pth：权重文件
+    - *.pth：权重文件（最优的模型在[exp/2024_11_12_03_33_16](./exp/2024_11_12_03_33_16)）
     - model_config.json：模型超参数
     - training_config.json：训练超参数
+    - test_result.json：评估结果
 - [result](./result/test)：结果文件
 - [runs](./runs)：tensorboard运行文件，可查看每次运行的dice系数变化
 - [config.py](./config.py)：训练和模型参数
